@@ -29,16 +29,16 @@ I'm a passionate techie from **Bengaluru, India**, dedicated to building scalabl
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Prithvi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blrcoderbro&show_icons=true&theme=tokyonight" alt="Prithvi's Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://linkedin.com/in/prithvi-sagar-439669119">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:prithvi@princebyte.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
